@@ -1,0 +1,4 @@
+numpy
+streamlit
+psycopg2-binary
+APScheduler
